@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi!+You+Are+Welcome+To+My+Profile;My+Name+Is+Brainstorma;I+Like+Working+With+AIs;I+Like+Playing+and+Building+video+Games)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi!+You+Are+Welcome+To+My+Profile;My+Name+Is+Brainstorma;I+Like+Working+With+AI;I+Like+Playing+and+Building+video+Games...)](https://git.io/typing-svg)
 ### Hello, I am Brainstorma 👋✨
 
 ### I am a Software Engineering student at ALX.
