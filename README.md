@@ -1,9 +1,9 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi!+You+Are+Welcome+To+My+Profile;My+Name+Is+Brainstorma;I+Like+Working+With+AI;I+Like+Playing+and+Building+video+Games...)](https://git.io/typing-svg)
 ### Hello, I am Brainstorma 👋✨
 
-### I am a Software Engineering student at ALX.
-- 🔭 I’m currently working on Banking APIs
-- 👯 I’m looking to collaborate on every project related to Data Science, Full Stack Development and Fintech
+### I am a Software Engineering and Financial Engineer Student at WQU.
+- 🔭 I’m currently working on Banking APIs and Portfolio Allocation Algorithms and Automations.
+- 👯 I’m looking to collaborate on every project related to Data Science, Full Stack Development, Fintech, Machine Learning and Algorithmic Trading Strategies.
 - ⚡ Fun fact: Music, Travel, Movies, Video games
 
 </div>
