@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1400,100:FFD700&height=210&section=header&text=BRAINSTORMA&fontSize=58&fontColor=FFD700&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20%C3%97%20Financial%20Engineering&descAlignY=62&descSize=17&descColor=E8C468" alt="Brainstorma header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1400,100:FFD700&height=210&section=header&text=BRAINSTORMA&fontSize=58&fontColor=FFD700&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C3%97%20Financial%20Engineer&descAlignY=62&descSize=17&descColor=E8C468" alt="Brainstorma header banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&background=0D0D0D&center=true&vCenter=true&width=650&lines=Building+banking+APIs...;Automating+portfolio+allocation...;Exploring+AI+%26+algorithmic+trading...;Building+%26+playing+video+games.)](https://github.com/DenverCoder1/readme-typing-svg)
 
