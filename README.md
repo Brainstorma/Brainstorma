@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a Software Engineering and Financial Engineering student at WorldQuant University (WQU). My current work centers on banking APIs, portfolio-allocation algorithms, and automating repeatable finance workflows. I'm also developing deeper skills in data science, machine learning, full-stack development, and algorithmic trading.
+I'm a Software Engineer and Msc Financial Engineering student at WorldQuant University (WQU). My current work centers on banking APIs, portfolio-allocation algorithms, and automating repeatable finance workflows. I'm also developing deeper skills in data science, machine learning, full-stack development, and algorithmic trading.
 
 My public repositories document the engineering foundations behind that direction: C, Python, Shell, Linux systems, APIs, command-line tools, and full-stack coursework.
 
@@ -169,7 +169,6 @@ More foundations: [`printf`](https://github.com/Brainstorma/printf) · [`AirBnB_
   <img src="https://render.gitanimals.org/farms/Brainstorma" alt="Brainstorma's GitAnimals farm — pets that grow with GitHub activity" />
 </p>
 
-<sub>A small animated farm from <a href="https://gitanimals.org">GitAnimals</a> that grows a new pet roughly every 30 commits — a playful nod to the video-games side of things. Purely decorative; delete this section any time without affecting the rest of the profile.</sub>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
