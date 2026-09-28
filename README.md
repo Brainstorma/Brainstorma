@@ -1,21 +1,98 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi!+You+Are+Welcome+To+My+Profile;My+Name+Is+Brainstorma;I+Like+Working+With+AI;I+Like+Playing+and+Building+video+Games...)](https://git.io/typing-svg)
-### Hello, I am Brainstorma 👋✨
+<div align="center">
 
-### I am a Software Engineering and Financial Engineer Student at WQU.
-- 🔭 I’m currently working on Banking APIs and Portfolio Allocation Algorithms and Automations.
-- 👯 I’m looking to collaborate on every project related to Data Science, Full Stack Development, Fintech, Machine Learning and Algorithmic Trading Strategies.
-- ⚡ Fun fact: Music, Travel, Movies, Video games
+# Brainstorma
+
+**Software engineering for financial systems**
+
+Banking APIs · Portfolio allocation · Automation · AI
+
+<p>
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#toolkit">Toolkit</a> ·
+  <a href="#github-snapshot">GitHub snapshot</a> ·
+  <a href="#collaborate">Collaborate</a>
+</p>
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=Brainstorma&style=compact-square&color=blue" align="center" alt=""/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?&username=Brainstorma&repo=Brainstorma&theme=highcontrast&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainstorma&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## About
 
+I study Software Engineering and Financial Engineering at WorldQuant University (WQU). I build banking APIs, portfolio-allocation tools, and small automations that turn recurring finance work into repeatable software.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Brainstorma&theme=highcontrast)](https://git.io/streak-stats)
+My public repositories hold the foundations behind that work: C, Python, Shell, Linux, APIs, command-line tools, and full-stack coursework. I also enjoy working with AI and building video games.
 
-### My Trophies🏆 <!--My Trophies-->
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brainstorma&theme=tokyonight&no-bg=false&no-frame=false&count_private=true)](https://github.com/Brainstorma/Brainstorma)
+## Selected work
+
+- **[`0x16-api_advanced`](https://github.com/Brainstorma/0x16-api_advanced)**  
+  Reddit API exercises covering subscriber lookups, hot-post retrieval, recursive pagination, and keyword counts.  
+  `Python · REST APIs · recursion`
+
+- **[`simple_shell`](https://github.com/Brainstorma/simple_shell)**  
+  A Unix-style command interpreter built in C, including process creation, PATH resolution, built-ins, parsing, and error handling.  
+  `C · POSIX · Shell`
+
+- **[`AirBnB_clone_v2`](https://github.com/Brainstorma/AirBnB_clone_v2)**  
+  A full-stack curriculum project connecting Python models, MySQL persistence, SQLAlchemy, a command interpreter, a REST API, and a web interface.  
+  `Python · MySQL · SQLAlchemy · REST`
+
+- **[`alx-system_engineering-devops`](https://github.com/Brainstorma/alx-system_engineering-devops)**  
+  Systems work across Linux, networking, web servers, configuration management, APIs, monitoring, and debugging.  
+  `Shell · Python · Puppet · Linux`
+
+More foundations: [`printf`](https://github.com/Brainstorma/printf) · [`AirBnB_clone`](https://github.com/Brainstorma/AirBnB_clone)
+
+---
+
+## Current direction
+
+- **Building:** banking APIs, portfolio-allocation algorithms, and finance automation
+- **Learning:** data science, machine learning, and full-stack development
+- **Exploring:** algorithmic trading and practical uses of AI in financial systems
+
+---
+
+## Toolkit
+
+**Languages:** Python · C · Shell/Bash
+
+**Systems and tools:** Git · GitHub Actions · Linux · VS Code
+
+**Application work:** REST APIs · MySQL · SQLAlchemy · HTML · CSS · jQuery
+
+---
+
+## GitHub snapshot
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-trophies-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-trophies-light.svg">
+  <img src="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-trophies-light.svg" alt="GitHub trophies earned by Brainstorma">
+</picture>
+</p>
+
+---
+
+## Contribution trail
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-contribution-grid-snake.svg" alt="Animated contribution graph for Brainstorma">
+</picture>
+</p>
+
+---
+
+## Collaborate
+
+I'm interested in data science, full-stack, fintech, machine-learning, and algorithmic-trading projects. For a focused proposal, open an issue in the relevant repository with the problem, the proposed scope, and the part you would like me to own.
+
+Outside code: music, travel, movies, and video games. I like playing them and building them.
+
+<div align="center"><i>Turning finance questions into APIs, models, and repeatable software.</i></div>
