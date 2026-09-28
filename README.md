@@ -153,7 +153,7 @@ More foundations: [`printf`](https://github.com/Brainstorma/printf) · [`AirBnB_
 ## Contribution trail
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-snake-gold-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-snake-gold.svg" />
   <img alt="Animated gold-and-black contribution snake for Brainstorma" src="https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-snake-gold-dark.svg" />
 </picture>
