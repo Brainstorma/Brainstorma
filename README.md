@@ -185,5 +185,6 @@ For collaboration, start with the relevant repository's Issues tab and include t
 
 <div align="center">
 <i>Turning finance questions into APIs, models, and repeatable software.</i>
-![snake animation](https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-contribution-grid-snake.svg)
+![snake animation]
+(https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-contribution-grid-snake.svg)
 </div>
