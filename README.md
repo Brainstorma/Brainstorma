@@ -180,9 +180,9 @@ More foundations: [`printf`](https://github.com/Brainstorma/printf) · [`AirBnB_
 </p>
 
 For collaboration, start with the relevant repository's Issues tab and include the problem, the proposed scope, and where you'd like me to help.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:0D0D0D&height=100&section=footer" alt="Brainstorma footer banner" />
 ![snake animation](https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:0D0D0D&height=100&section=footer" alt="Brainstorma footer banner" />
+
 https://raw.githubusercontent.com/Brainstorma/Brainstorma/output/github-contribution-grid-snake.svg
 <div align="center">
 <i>Turning finance questions into APIs, models, and repeatable software.</i>
