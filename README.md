@@ -30,12 +30,12 @@ I'm open to collaborating on data science, full-stack, fintech, machine-learning
 
 ```yaml
 studying:
-  - Software Engineering
-  - Financial Engineering @ WorldQuant University (WQU)
+  - Financial Engineering in My Final year
 
 building:
   - Banking APIs
   - Portfolio-allocation algorithms and automation
+  - System Applications and automation
 
 exploring:
   - Machine learning for financial systems
