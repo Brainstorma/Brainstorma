@@ -21,11 +21,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Check out the profile repository
         uses: actions/checkout@v4
 
+      # Gold-and-black contribution snake, plus the original github/github-dark
+      # palettes kept as a fallback in case the custom colors ever need reverting.
       - name: Generate contribution snakes
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,7 +34,22 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake-gold.svg?color_snake=FFD700&color_dots=0D0D0D,3D3111,8A6D1F,C9971E,FFD700
+            dist/github-snake-gold-dark.svg?color_snake=FFD700&color_dots=000000,262626,8A6D1F,C9971E,FFD700
 
+      # Trophy cards use the "gruvbox" preset: the closest built-in amber-on-charcoal
+      # theme to gold-and-black, since this service only accepts named themes rather
+      # than custom hex colors. Rendered here and committed to the output branch so
+      # the card keeps working even if the shared vercel.app endpoint is rate-limited.
+      - name: Generate gold-black trophy card
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: "username=${{ github.repository_owner }}&theme=gruvbox&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&count_private=true"
+          path: dist/github-trophies-gold.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          version: v1.0.0
+
+      # Original light/dark trophy cards kept for reference/rollback.
       - name: Generate light trophy card
         uses: soulteary/github-profile-trophy-action@v1
         with:
